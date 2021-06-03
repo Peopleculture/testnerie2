@@ -1,0 +1,126 @@
+﻿
+body {
+
+}
+
+.parallax-content {
+ 
+}
+
+.baner-contentss {   
+    background-image: url('../img/external/Title.png');
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+#descriptions {
+    background-image: url('../img/external/Vis Min.png');
+    text-align: center;
+    vertical-align: middle;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 120vh;
+}
+#descriptions2 {
+    background-image: url('../img/external/Jargon.png');
+    text-align: center;
+    vertical-align: middle;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 120vh;
+}
+
+#descriptions3 {
+    background-image: url('../img/external/Get to Know Our Partners.png');
+    text-align: center;
+    vertical-align: middle;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 120vh;
+}
+
+#descriptions4 {
+    background-image: url('../img/external/Partners Exec copy.png');
+    text-align: center;
+    vertical-align: middle;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 120vh;
+}
+
+#descriptions5 {
+    background-image: url('../img/external/Partners Audit copy.png');
+    text-align: center;
+    vertical-align: middle;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 120vh;
+}
+
+#descriptions6 {
+    background-image: url('../img/external/Partners Rest copy.png');
+    text-align: center;
+    vertical-align: middle;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 120vh;
+}
+#descriptions7 {
+    background-image: url('../img/external/PSSD Direc.png');
+    text-align: center;
+    vertical-align: middle;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 120vh;
+}
+#descriptions8 {
+    background-image: url('../img/external/PSSD Direc 2.png');
+    text-align: center;
+    vertical-align: middle;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 120vh;
+}
+#descriptions9 {
+    background-image: url('../img/external/Floor Mar 1.5.png');
+    text-align: center;
+    vertical-align: middle;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 120vh;
+}
+#descriptions10 {
+    background-image: url('../img/external/Floor Mar 2.png');
+    text-align: center;
+    vertical-align: middle;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 120vh;
+}
+#descriptions11 {
+    background-image: url('../img/external/Emergency.png');
+    text-align: center;
+    vertical-align: middle;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 120vh;
+}
+#descriptions12 {
+    background-image: url('../img/external/Internal.png');
+    text-align: center;
+    vertical-align: middle;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 120vh;
+}
+#descriptions13 {
+    background-image: url('../img/external/Eat.png');
+    text-align: center;
+    vertical-align: middle;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 120vh;
+}
